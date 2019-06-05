@@ -4,7 +4,7 @@
 #
 Name     : lsacpi
 Version  : 5
-Release  : 12
+Release  : 13
 URL      : http://localhost/cgit/projects/lsacpi/snapshot/lsacpi-5.tar.bz2
 Source0  : http://localhost/cgit/projects/lsacpi/snapshot/lsacpi-5.tar.bz2
 Summary  : No detailed summary available
